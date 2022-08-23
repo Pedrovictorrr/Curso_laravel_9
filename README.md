@@ -1,2 +1,6 @@
-# Curso_laravel_9
-Curso Laravel 9 - Gestao de Usuarios - Gestao de Comentarios
+Curso feito pela especializa TI.
+
+
+Site do curso: https://academy.especializati.com.br/curso/laravel-9-gratuito
+
+Em processo de conclusão.
